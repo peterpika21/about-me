@@ -14,6 +14,7 @@
   <li>使用 SCSS 規劃網頁版型</li>
   <li>使用 Bootstrap 開發響應式網頁</li>
   <li>了解 Javascript 基本語法</li>
+  <li>了解如何使用第三方插件</li>
   <li>AJAX 串接與使用</li>
   <li>了解 Git / Github 與基本指令運用</li>
 </ul>
@@ -21,8 +22,12 @@
 <h3>作品</h3>
 <ul>
   <li>
-<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>基礎排版作業</b></a> <br>
-⌞ 剛入門前端時的小作業</p>
+<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS系列作品-六角學院</b></a> <br>
+⌞ 單純使用HTML5與CSS3設計</p>
+</li>
+   <li>
+<p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD系列作品-六角學院</b></a> <br>
+⌞ 使用HTML5 CSS3 jQuery與客製RWD設計 不使用第三方Framework</p>
 </li>
 </ul>
 <hr>
