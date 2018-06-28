@@ -27,7 +27,7 @@
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD系列作品-六角學院</b></a> <br>
-⌞ 使用HTML5 CSS3 jQuery與客製RWD設計 不使用第三方Framework</p>
+⌞ 使用HTML5 CSS3 少許jQuery與客製RWD設計 不使用第三方Framework</p>
 </li>
 </ul>
 <hr>
