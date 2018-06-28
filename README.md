@@ -20,8 +20,10 @@
 <hr>
 <h3>作品</h3>
 <ul>
-  <li>待補</li>
-  <li>待補</li>
+  <li>
+<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>基礎排版作業</b></a> <br>
+⌞ 剛入門前端時的小作業</p>
+</li>
 </ul>
 <hr>
 <h3>未來計畫</h3>
