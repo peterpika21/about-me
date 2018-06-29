@@ -29,6 +29,11 @@
 <p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD系列作品-六角學院</b></a> <br>
 ⌞ 使用HTML5 CSS3 少許jQuery與RWD設計客製化 不使用第三方Framework</p>
 </li>
+   <li>
+<p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery系列作品-六角學院</b></a><br>
+⌞ 第一版作業加入jQuery控制，使用lightbox與Nivo slider Plugin <br>
+     ⌞ 開始採用SCSS撰寫</p>
+</li>
 </ul>
 <hr>
 <h3>未來計畫</h3>
