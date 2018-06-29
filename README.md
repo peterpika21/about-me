@@ -1,4 +1,4 @@
-# 李宜謙　(I-CHIEN LI)
+# 李宜謙 (I-CHIEN LI)
 <ul>
   <li>Education：國立聯合大學-電機工程學系</li>
   <li>Location：新竹縣</li>
