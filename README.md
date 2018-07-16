@@ -12,11 +12,12 @@
   <li>了解 RWD架構，能不依賴 CSS Framework 進行客製化</li>
   <li>使用 jQuery/CSS3 設計網頁動態效果</li>
   <li>使用 SCSS 規劃網頁版型</li>
-  <li>使用 Bootstrap 開發響應式網頁</li>
+  <li>基礎 Bootstrap 開發響應式網頁應用</li>
   <li>了解 Javascript 基本語法</li>
   <li>了解如何使用第三方插件</li>
   <li>AJAX 串接與使用</li>
   <li>了解 Git / Github 與基本指令運用</li>
+  <il>基礎NPM觀念</li>
 </ul>
 <hr>
 <h3>作品</h3>
@@ -34,12 +35,24 @@
 ⌞ 第一版作業加入jQuery控制，使用lightbox與Nivo slider Plugin <br>
      ⌞ 開始採用SCSS撰寫</p>
 </li>
+   <li>
+<p><a href="https://peterpika20.github.io/BMI/"><b>BMI作品</b></a><br>
+⌞ 使用JS撰寫BMI測量與暫存</p>
+</li>
+   <li>
+<p><a href="https://peterpika20.github.io/Kaohsiung_Travel/" rel="nofollow"><b>高雄旅遊網</b></a><br>
+⌞ 使用JS串接JSON資料撰寫高雄旅遊網</p>
+</li>
+   <li>
+<p><a href="https://peterpika20.github.io/project/" rel="nofollow"><b>個人履歷作品</b></a><br>
+⌞ 個人履歷網站 應用了RWD jQuery JS套件等相關技術</p>
+</li>
 </ul>
 <hr>
 <h3>未來計畫</h3>
 <ul>
   <li>繼續精進原有技能</li>
-  <li>學習SPA框架 Vue.js</li>
+  <li>學習SPA框架 >> Vue.js</li>
   <li>學習 Glup 進行前端自動化</li>
   <li>學習後端技能 促進前/後端完美結合</li>
 </ul>
