@@ -52,7 +52,7 @@
 <h3>目前正在學習</h3>
 <ul>
   <li>Glup任務管理工具</li>
-  <li>研究 google map API 串接與應用</li>
+  <li>jade template language</li>
 </ul>
 <hr>
 <h3>未來學習規劃</h3>
