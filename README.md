@@ -49,11 +49,19 @@
 </li>
 </ul>
 <hr>
-<h3>未來計畫</h3>
+<h3>目前正在學習</h3>
+<ul>
+  <li>Glup任務管理工具</li>
+  <li>研究 google map API 串接與應用</li>
+</ul>
+<hr>
+<h3>未來學習規劃</h3>
 <ul>
   <li>繼續精進原有技能</li>
-  <li>學習SPA框架 >> Vue.js</li>
-  <li>學習 Glup 進行前端自動化</li>
+  <li>學習 SPA 框架 >> Vue.js</li>
+  <li>配合企業需求學習所需第三方套件</li>
+  <li>了解瀏覽器兼容性問題</li>
+  <li>了解SEO優化如何實做</li>
   <li>學習後端技能 促進前/後端完美結合</li>
 </ul>
 <hr>
