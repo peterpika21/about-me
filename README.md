@@ -47,12 +47,16 @@
 <p><a href="https://peterpika20.github.io/project/" rel="nofollow"><b>個人履歷作品</b></a><br>
 ⌞ 個人履歷網站 應用了RWD jQuery JS套件等相關技術</p>
 </li>
+   <li>
+<p><a href="https://peterpika20.github.io/Twitch_API_demo/" rel="nofollow"><b>Twitch_API串接</b></a><br>
+⌞ 開始使用Gulp jade等工具開發 此作品單純學習串接API與顯示 不含RWD設計</p>
+</li>
 </ul>
 <hr>
 <h3>目前正在學習</h3>
 <ul>
-  <li>Glup任務管理工具</li>
-  <li>jade template language</li>
+  <li>繼續精進javascript與jQuery</li>
+  <li>開始採用一些ES6寫法 會搭配gulp轉譯</li>
 </ul>
 <hr>
 <h3>未來學習規劃</h3>
