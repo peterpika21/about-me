@@ -17,7 +17,7 @@
   <li>了解如何使用第三方插件</li>
   <li>AJAX 串接與使用</li>
   <li>了解 Git / Github 與基本指令運用</li>
-  <il>基礎NPM觀念</li>
+  <il>基礎 gulp npm bower jade 運用與撰寫</li>
 </ul>
 <hr>
 <h3>作品</h3>
