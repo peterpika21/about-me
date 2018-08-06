@@ -51,6 +51,10 @@
 <p><a href="https://peterpika20.github.io/Twitch_API_demo/" rel="nofollow"><b>Twitch_API串接</b></a><br>
 ⌞ 開始使用Gulp jade等工具開發 此作品單純學習串接API與顯示 不含RWD設計</p>
 </li>
+    <li>
+<p><a href="https://peterpika20.github.io/boom/" rel="nofollow"><b>javascript踩地雷</b></a><br>
+⌞ 用原生JS開發 不含RWD設計 (瀏覽器兼容待補)</p>
+</li>
 </ul>
 <hr>
 <h3>目前進度</h3>
