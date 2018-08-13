@@ -28,11 +28,11 @@
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD 系列作品-六角學院</b></a> <br>
-⌞ 使用HTML5 CSS3 少許jQuery與RWD設計客製化 不使用第三方Framework</p>
+⌞ 使用 HTML5 CSS3 少許 jQuery 與 RWD 設計客製化 不使用第三方 Framework</p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery 系列作品-六角學院</b></a><br>
-⌞ 第一版作業加入 jQuery 控制，使用lightbox與Nivo slider Plugin <br>
+⌞ 第一版作業加入 jQuery 控制，使用 lightbox 與 Nivo slider Plugin <br>
      ⌞ 開始採用 SCSS 撰寫</p>
 </li>
    <li>
