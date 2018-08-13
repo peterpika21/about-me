@@ -23,55 +23,51 @@
 <h3>作品</h3>
 <ul>
   <li>
-<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS系列作品-六角學院</b></a> <br>
-⌞ 單純使用HTML5與CSS3設計</p>
+<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS 系列作品-六角學院</b></a> <br>
+⌞ 單純使用 HTML5 與 CSS3 設計</p>
 </li>
    <li>
-<p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD系列作品-六角學院</b></a> <br>
+<p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD 系列作品-六角學院</b></a> <br>
 ⌞ 使用HTML5 CSS3 少許jQuery與RWD設計客製化 不使用第三方Framework</p>
 </li>
    <li>
-<p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery系列作品-六角學院</b></a><br>
-⌞ 第一版作業加入jQuery控制，使用lightbox與Nivo slider Plugin <br>
-     ⌞ 開始採用SCSS撰寫</p>
+<p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery 系列作品-六角學院</b></a><br>
+⌞ 第一版作業加入 jQuery 控制，使用lightbox與Nivo slider Plugin <br>
+     ⌞ 開始採用 SCSS 撰寫</p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/BMI/"><b>BMI作品</b></a><br>
-⌞ 使用JS撰寫BMI測量與暫存</p>
+⌞ 使用 JS 撰寫 BMI 測量與暫存</p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/Kaohsiung_Travel/" rel="nofollow"><b>高雄旅遊網</b></a><br>
-⌞ 使用JS串接JSON資料撰寫高雄旅遊網</p>
+⌞ 使用 JS 串接 JSON 資料撰寫高雄旅遊網</p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/project/" rel="nofollow"><b>個人履歷作品</b></a><br>
-⌞ 個人履歷網站 應用了RWD jQuery JS套件等相關技術</p>
+⌞ 個人履歷網站 應用了RWD jQuery JS 套件等相關技術</p>
 </li>
    <li>
-<p><a href="https://peterpika20.github.io/Twitch_API_demo/" rel="nofollow"><b>Twitch_API串接</b></a><br>
-⌞ 開始使用Gulp jade等工具開發 此作品單純學習串接API與顯示 不含RWD設計</p>
+<p><a href="https://peterpika20.github.io/Twitch_API_demo/" rel="nofollow"><b>Twitch_API 串接</b></a><br>
+⌞ 開始使用 Gulp jade 等工具開發 此作品單純學習串接 API 與顯示 (註:此 API 年底失效)</p>
 </li>
     <li>
 <p><a href="https://peterpika20.github.io/boom/" rel="nofollow"><b>javascript踩地雷</b></a><br>
-⌞ 用原生JS開發 不含RWD設計 (瀏覽器兼容待補)</p>
+⌞ 用原生 JS 開發 不含 RWD 設計 (瀏覽器兼容待補)</p>
 </li>
 </ul>
 <hr>
 <h3>目前進度</h3>
 <ul>
-  <li>繼續精進javascript與jQuery</li>
-  <li>開始採用一些ES6寫法 會搭配gulp轉譯</li>
- <p> JS的部分這幾天在把基礎建立的更扎實<br>之後會開始研究JS更深入的應用<br>
-(正則表示式，原型鏈，瀏覽器兼容問題，常用的演算法等等...) </p>
+  <li>繼續精進 javascript 與 jQuery </li>
+  <li>開始採用一些 ES6 寫法 會搭配 gulp 轉譯</li>
+  <li>Vue.js 入門</li>
 </ul>
 <hr>
 <h3>未來學習規劃</h3>
 <ul>
   <li>繼續精進原有技能</li>
-  <li>學習 SPA 框架 >> Vue.js</li>
-  <li>配合企業需求學習所需第三方套件</li>
-  <li>了解瀏覽器兼容性問題</li>
-  <li>了解SEO優化如何實做</li>
+  <li>配合企業需求研究專案所需第三方套件</li>
   <li>學習後端技能 促進前/後端完美結合</li>
 </ul>
 <hr>
@@ -80,5 +76,5 @@
   <li>出社會工作二年，屬於轉職者，了解團隊合作的重要性。</li>
   <li>工作態度良好，非常細心。</li>
   <li>熱愛學習，前端技術自學半年以上，近期加入<a href="https://www.facebook.com/hexschool/">六角學院</a>，喜歡與眾多前端工程師討論技術，解決問題。</li>
-  <li>傭有自己的野心與目標，希望朝日成為前端技術的佼佼者。</li>
+  <li>希望能為公司帶給客戶更好的 UI/UX 體驗。</li>
 </ul>
