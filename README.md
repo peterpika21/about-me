@@ -24,11 +24,11 @@
 <ul>
   <li>
 <p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS 系列作品-六角學院</b></a> <br>
-⌞ 單純使用 HTML5 與 CSS3 設計</p>
+⌞ 使用 HTML5 與 CSS3 設計</p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD 系列作品-六角學院</b></a> <br>
-⌞ 使用 HTML5 CSS3 少許 jQuery 與 RWD 設計客製化 不使用第三方 Framework</p>
+⌞ 使用 HTML5 CSS3 jQuery 與 RWD 設計客製化 不使用第三方 Framework</p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery 系列作品-六角學院</b></a><br>
@@ -61,7 +61,7 @@
 <ul>
   <li>繼續精進 javascript 與 jQuery </li>
   <li>開始採用一些 ES6 寫法 會搭配 gulp 轉譯</li>
-  <li>Vue.js 入門</li>
+  <li>研究 Vue.js 中</li>
 </ul>
 <hr>
 <h3>未來學習規劃</h3>
