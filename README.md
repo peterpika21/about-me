@@ -22,19 +22,6 @@
 <hr>
 <h3>作品</h3>
 <ul>
-  <li>
-<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS 系列作品-六角學院</b></a> <br>
-⌞ 使用 HTML5 與 CSS3 設計</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD 系列作品-六角學院</b></a> <br>
-⌞ 使用 HTML5 CSS3 jQuery 與 RWD 設計客製化 不使用第三方 Framework</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery 系列作品-六角學院</b></a><br>
-⌞ 第一版作業加入 jQuery 控制，使用 lightbox 與 Nivo slider Plugin <br>
-     ⌞ 開始採用 SCSS 撰寫</p>
-</li>
    <li>
 <p><a href="https://peterpika20.github.io/BMI/"><b>BMI作品</b></a><br>
 ⌞ 使用 JS 撰寫 BMI 測量與暫存</p>
@@ -54,6 +41,19 @@
     <li>
 <p><a href="https://peterpika20.github.io/boom/" rel="nofollow"><b>javascript踩地雷</b></a><br>
 ⌞ 用原生 JS 開發 不含 RWD 設計 (瀏覽器兼容待補)</p>
+</li>
+    <li>
+<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS 六角學院 (作業1)</b></a> <br>
+⌞ 使用 HTML5 與 CSS3 設計</p>
+</li>
+   <li>
+<p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD 六角學院 (作業2)</b></a> <br>
+⌞ 使用 HTML5 CSS3 jQuery 與 RWD 設計客製化 不使用第三方 Framework</p>
+</li>
+   <li>
+<p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery 六角學院(作業3)</b></a><br>
+⌞ 第一版作業加入 jQuery 控制，使用 lightbox 與 Nivo slider Plugin <br>
+     ⌞ 開始採用 SCSS 撰寫</p>
 </li>
 </ul>
 <hr>
