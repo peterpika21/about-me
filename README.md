@@ -24,11 +24,11 @@
 <ul>
    <li>
 <p><a href="https://peterpika20.github.io/todolist/"><b>Todolist</b></a><br>
-⌞ jQuery 撰寫</p>
+⌞ jQuery 撰寫 todolist </p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/BMI/"><b>BMI作品</b></a><br>
-⌞ 使用 JS 撰寫 BMI 測量與暫存</p>
+⌞ 使用 JS 撰寫 BMI </p>
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/Kaohsiung_Travel/" rel="nofollow"><b>高雄旅遊網</b></a><br>
@@ -40,12 +40,13 @@
 </li>
    <li>
 <p><a href="https://peterpika20.github.io/Twitch_API_demo/" rel="nofollow"><b>Twitch_API 串接</b></a><br>
-⌞ 開始使用 Gulp jade 等工具開發 此作品單純學習串接 API 與顯示 (註:此 API 年底失效)</p>
+⌞ 此作品單純 demo 串接 API 與顯示 (註:此 API 年底失效)</p>
 </li>
     <li>
 <p><a href="https://peterpika20.github.io/boom/" rel="nofollow"><b>javascript踩地雷</b></a><br>
 ⌞ 用原生 JS 開發 不含 RWD 設計 (瀏覽器兼容待補)</p>
 </li>
+  <hr>
     <li>
 <p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS 六角學院 (作業1)</b></a> <br>
 ⌞ 使用 HTML5 與 CSS3 設計</p>
