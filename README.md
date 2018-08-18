@@ -35,6 +35,10 @@
 ⌞ 使用 JS 串接 JSON 資料撰寫高雄旅遊網</p>
 </li>
    <li>
+<p><a href="https://peterpika20.github.io/restaurant/" rel="nofollow"><b>餐廳demo</b></a><br>
+⌞ 餐廳demo 套用了google map 與 FB plugin</p>
+</li>
+   <li>
 <p><a href="https://peterpika20.github.io/project/" rel="nofollow"><b>個人履歷作品</b></a><br>
 ⌞ 個人履歷網站 應用了RWD jQuery JS 套件等相關技術</p>
 </li>
