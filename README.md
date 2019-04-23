@@ -21,64 +21,6 @@
 </ul>
 <hr>
 <h3>作品</h3>
-<ul>
-   <li>
-<p><a href="https://peterpika20.github.io/todolist/"><b>Todolist</b></a><br>
-⌞ jQuery 撰寫 todolist </p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/BMI/"><b>BMI作品</b></a><br>
-⌞ 使用 JS 撰寫 BMI </p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/Kaohsiung_Travel/" rel="nofollow"><b>高雄旅遊網</b></a><br>
-⌞ 使用 JS 串接 JSON 資料撰寫高雄旅遊網</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/restaurant/" rel="nofollow"><b>餐廳demo</b></a><br>
-⌞ 餐廳demo 套用了google map 與 FB plugin</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/project/" rel="nofollow"><b>個人履歷作品</b></a><br>
-⌞ 個人履歷網站 應用了RWD jQuery JS 套件等相關技術</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/Twitch_API_demo/" rel="nofollow"><b>Twitch_API 串接</b></a><br>
-⌞ 此作品單純 demo 串接 API 與顯示 (註:此 API 年底失效)</p>
-</li>
-    <li>
-<p><a href="https://peterpika20.github.io/boom/" rel="nofollow"><b>javascript踩地雷</b></a><br>
-⌞ 用原生 JS 開發 不含 RWD 設計 (瀏覽器兼容待補)</p>
-</li>
-  <hr>
-    <li>
-<p><a href="https://peterpika20.github.io/HTML-CSS-hw/" rel="nofollow"><b>HTNL&CSS 六角學院 (作業1)</b></a> <br>
-⌞ 使用 HTML5 與 CSS3 設計</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/RWD-HW/" rel="nofollow"><b>RWD 六角學院 (作業2)</b></a> <br>
-⌞ 使用 HTML5 CSS3 jQuery 與 RWD 設計客製化 不使用第三方 Framework</p>
-</li>
-   <li>
-<p><a href="https://peterpika20.github.io/jQuery-hw/" rel="nofollow"><b>jQuery 六角學院(作業3)</b></a><br>
-⌞ 第一版作業加入 jQuery 控制，使用 lightbox 與 Nivo slider Plugin <br>
-     ⌞ 開始採用 SCSS 撰寫</p>
-</li>
-</ul>
-<hr>
-<h3>目前進度</h3>
-<ul>
-  <li>繼續精進 javascript 與 jQuery </li>
-  <li>開始採用一些 ES6 寫法 會搭配 gulp 轉譯</li>
-  <li>研究 Vue.js 中</li>
-</ul>
-<hr>
-<h3>未來學習規劃</h3>
-<ul>
-  <li>繼續精進原有技能</li>
-  <li>配合企業需求研究專案所需第三方套件</li>
-  <li>學習後端技能 促進前/後端完美結合</li>
-</ul>
 <hr>
 <h3>自我簡介</h3>
 <ul>
