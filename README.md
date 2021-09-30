@@ -8,24 +8,20 @@
 <hr>
 <h3>專業技能</h3>
 <ul>
-  <li>熟悉 HTML5與CSS3 </li>
-  <li>了解 RWD架構，能不依賴 CSS Framework 進行客製化</li>
-  <li>使用 jQuery/CSS3 設計網頁動態效果</li>
-  <li>使用 SCSS 規劃網頁版型</li>
-  <li>基礎 Bootstrap 開發響應式網頁應用</li>
-  <li>了解 Javascript 基本語法</li>
-  <li>了解如何使用第三方插件</li>
-  <li>AJAX 串接與使用</li>
-  <li>了解 Git / Github 與基本指令運用</li>
-  <li>基礎 gulp npm bower jade 運用與撰寫</li>
+  <li>熟悉 HTML5，CSS3與JavaScript </li>
+  <li>RWD 架構與動態網頁製作</li>
+  <li>純手刻 UI 或快速上手任意 UI 框架</li>
+  <li>API 串接與使用</li>
+  <li>AngularJS、Vue、Nuxt框架</li>
+  <li>Git、NPM、Webpack...等基本運用</li>
+  <li>Docker、AWS...等基本運用</li>
+  <li>其他前端工程相關技能</li>
 </ul>
-<hr>
-<h3>作品</h3>
 <hr>
 <h3>自我簡介</h3>
 <ul>
-  <li>出社會工作二年，屬於轉職者，了解團隊合作的重要性。</li>
-  <li>工作態度良好，非常細心。</li>
-  <li>熱愛學習，前端技術自學半年以上，近期加入<a href="https://www.facebook.com/hexschool/">六角學院</a>，喜歡與眾多前端工程師討論技術，解決問題。</li>
-  <li>希望能為公司帶給客戶更好的 UI/UX 體驗。</li>
+  <li>出社會工作五年，途中轉職前端工程師，已有兩年半實務經驗。</li>
+  <li>獨立開發公司多個前端專案並制定專案 code style</li>
+  <li>工作態度良好，無不良嗜好。</li>
+  <li>熱愛學習，前端技術自學者，為六角學院四年以上之學員，工作之餘會與其他學員討論技術，解決問題。</li>
 </ul>
